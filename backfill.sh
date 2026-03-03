@@ -1,7 +1,7 @@
 #!/bin/bash
 
-START_DATE="2024-01-01"
-END_DATE="2024-12-31"
+START_DATE="2023-01-01"
+END_DATE="2023-12-31"
 
 current="$START_DATE"
 
